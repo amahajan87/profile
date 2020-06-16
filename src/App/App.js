@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi, I am Aakanksha Mahajan, a backend software engineer. This website is to add frontend skills to my profile.
         </p>
         <a
           className="App-link"
